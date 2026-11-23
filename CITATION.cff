@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite each individual research work using its DOI listed in README.md."
+title: "Amar Kenzari — Research Repository"
+type: software
+authors:
+  - family-names: Kenzari
+    given-names: Amar
+    name: "Amar Kenzari"
+repository-code: "https://github.com/kenkezamar-ctrl/ammar"
