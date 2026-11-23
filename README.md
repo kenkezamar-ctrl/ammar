@@ -10,7 +10,7 @@ This repository is the central index for five research works by Amar Kenzari. Th
 
 | # | Research title | Figshare record | DOI |
 |---|---|---:|---|
-| 1 | القوة الخامسة والدخان الكوني والماء: حافة الكون والغلاف الكوني | [35085127](https://figshare.com/articles/thesis/35085127) | [10.6084/m9.figshare.35085127](https://doi.org/10.6084/m9.figshare.35085127) |
+| 1 | القوة الخامسة والدخان الكوني والماء: حافة الكون والغلاف الكوني | 35085127 | [10.6084/m9.figshare.35085127](https://doi.org/10.6084/m9.figshare.35085127) |
 | 2 | أحلام ورؤيا وخلط | [35078962](https://figshare.com/articles/preprint/_p_dir_rtl__-_-__Dream-visions-and_jumbled_p_/35078962) | [10.6084/m9.figshare.35078962](https://doi.org/10.6084/m9.figshare.35078962) |
 | 3 | الماء، أصل المادة، والتوازن الكوني: دراسة كونية ومعرفية | [35024887](https://figshare.com/articles/thesis/Water_the_Origin_of_Matter_and_Cosmic_Balance_A_Cosmological_and_Cognitive_Study/35024887) | [10.6084/m9.figshare.35024887](https://doi.org/10.6084/m9.figshare.35024887) |
 | 4 | هل سبق الزمن المادة والفضاء؟ دراسة نقدية للزمن والزمكان وحدود النماذج الكونية | [35024722](https://figshare.com/articles/thesis/Time_Before_Matter_and_Space_A_Critical_Study_of_Time_Spacetime_and_the_Limits_of_Cosmological_Models/35024722) | [10.6084/m9.figshare.35024722](https://doi.org/10.6084/m9.figshare.35024722) |
